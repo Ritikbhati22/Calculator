@@ -1,0 +1,26 @@
+.cal{
+  width: 320px;
+  margin: 100px auto;
+  background: blue;
+}
+#answer{
+  background: #e3e3e3;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid;
+
+}
+.button{
+   background:#333;
+   height: 80px;
+   width: 80px;color: white;
+   font-size: 30px;
+   border: 1px solid black;
+   float: left;
+}
+.button1{
+  width: 160px;
+}
